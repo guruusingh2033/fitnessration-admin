@@ -1,0 +1,161 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "9b346a28b6a239a7e979874b5cf128d0aef516d9.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/9b346a28b6a239a7e979874b5cf128d0aef516d9.js?meteor_js_resource=true",
+      "size": 1221357,
+      "hash": "9b346a28b6a239a7e979874b5cf128d0aef516d9"
+    },
+    {
+      "path": "1785347d383abbc15012bdc559b7fa1dbd3c6bf5.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/1785347d383abbc15012bdc559b7fa1dbd3c6bf5.css?meteor_css_resource=true",
+      "size": 30287,
+      "hash": "1785347d383abbc15012bdc559b7fa1dbd3c6bf5"
+    },
+    {
+      "path": "app/lodash.core.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/lodash.core.min.js",
+      "size": 12251,
+      "hash": "9156178fc0807b13cd0cc6d6e32d08164dfd324b"
+    },
+    {
+      "path": "app/test.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/test.js",
+      "size": 3966,
+      "hash": "886ef2c6266a5c3c356b11146bcf19454477a2bb"
+    },
+    {
+      "path": "app/images/add.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/add.png",
+      "size": 335,
+      "hash": "c5f63a82e7a1930db864caab6f61e8bebbcc67fa"
+    },
+    {
+      "path": "app/images/archive.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/archive.png",
+      "size": 460,
+      "hash": "1d5f6eb2ae51b01bbb492f5c1e3871cca1ded816"
+    },
+    {
+      "path": "app/images/cancel.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/cancel.png",
+      "size": 663,
+      "hash": "2401c746481487e7560add88c8698740cbabdd9d"
+    },
+    {
+      "path": "app/images/delete.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/delete.png",
+      "size": 513,
+      "hash": "904124aaff3d2319e191b208dd853c2b2ccb2e0c"
+    },
+    {
+      "path": "app/images/edit.dark.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/edit.dark.png",
+      "size": 844,
+      "hash": "0646d687c1d932bbff8d498bd6ca3cf4dbc99db4"
+    },
+    {
+      "path": "app/images/edit.light.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/edit.light.png",
+      "size": 754,
+      "hash": "f9ff2823982f45895f48d03dd832ecce0b828155"
+    },
+    {
+      "path": "app/images/export.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/export.png",
+      "size": 646,
+      "hash": "5f16fc340b1192da0f79cea6429472639494aae6"
+    },
+    {
+      "path": "app/images/flagged.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/flagged.png",
+      "size": 787,
+      "hash": "be0fcff21c0503c93c00e878d64e398d95a4a492"
+    },
+    {
+      "path": "app/images/not-flagged.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/not-flagged.png",
+      "size": 975,
+      "hash": "daf73bdda598a453901511475fccff9941c7bc3b"
+    },
+    {
+      "path": "app/images/save.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/save.png",
+      "size": 528,
+      "hash": "e72130b7bf0855eb3e2e93097f4782e1420dd065"
+    },
+    {
+      "path": "app/images/search.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/search.png",
+      "size": 404,
+      "hash": "ffc83538f1dce229556a67aaad4c914a709c87cc"
+    },
+    {
+      "path": "app/images/view.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/view.png",
+      "size": 974,
+      "hash": "aa3aec536e020fd490f26850d4af99e038a1e282"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "76b214fbf973d0dfe7f6c7ca136835ce0d2f3057"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "64f756cd357459b15885aa415de923382f4b64e0"
+    }
+  ]
+}
